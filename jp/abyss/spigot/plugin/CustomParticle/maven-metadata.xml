@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>jp.abyss.spigot.plugin</groupId>
+  <artifactId>CustomParticle</artifactId>
+  <versioning>
+    <release>1.12.2ver</release>
+    <versions>
+      <version>1.12.2ver</version>
+    </versions>
+    <lastUpdated>20200305050535</lastUpdated>
+  </versioning>
+</metadata>
