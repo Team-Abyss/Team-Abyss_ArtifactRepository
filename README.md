@@ -2,6 +2,8 @@ Team-Abyss 成果物レポジトリ
 
 レポジトリの追加
 
+Maven
+
 <pre>
   &lt;repositories&gt;
     &lt;repository&gt;
@@ -12,3 +14,8 @@ Team-Abyss 成果物レポジトリ
   &lt;/repositories&gt;
 </pre>
 
+Gradle
+    maven {
+        name = 'abyss-repo'
+        url = 'https://raw.github.com/Team-Abyss/Team-Abyss_ArtifactRepository/master'
+    }
