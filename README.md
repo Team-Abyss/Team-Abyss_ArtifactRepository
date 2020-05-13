@@ -15,7 +15,10 @@ Maven
 </pre>
 
 Gradle
+
+```Groovy
     maven {
         name = 'abyss-repo'
         url = 'https://raw.github.com/Team-Abyss/Team-Abyss_ArtifactRepository/master'
     }
+```    
