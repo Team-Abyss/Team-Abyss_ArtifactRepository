@@ -20,4 +20,7 @@ Gradle
      name = 'abyss-repo'
      url = 'https://raw.github.com/Team-Abyss/Team-Abyss_ArtifactRepository/master'
  }
-```    
+```
+
+ビルド後のデータアップローダー  
+https://ux.getuploader.com/team_abyss_uploader/
